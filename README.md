@@ -31,6 +31,7 @@ pvenas iso torrent file
 ```
 _说明：_
 _默认的数据文件夹为/DATA，为了不会把系统盘撑爆只分配了300M的空间，安装完后请运行`pvenas`添加数据盘。_
+
 -/DATA　is a mergerfs folder, only 300M for a loop. if you finish installation, please run `pvenas` to add data disk folder._
 
 
