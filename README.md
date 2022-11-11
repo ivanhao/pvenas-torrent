@@ -2,6 +2,7 @@
 pvenas iso torrent file
 
 <https://github.com/ivanhao/pvenas-torrent>
+<https://gitee.com/ivanhao1984/pvenas-torrent>
 
 
 # 2022-11-11:
@@ -24,6 +25,12 @@ pvenas iso torrent file
 3、qbittorrent  —  admin  :  adminadmin
 4、filerun      —  自行配置
 5、docker       —  自行配置
+```
+```
+说明：
+默认的数据文件夹为/DATA，为了不会把系统盘撑爆只分配了300M的空间，安装完后请运行`pvenas`添加数据盘。
+/DATA　is a mergerfs folder, only 300M for a loop. if you finish installation, please run `pvenas` to add data disk folder.
+
 ```
 
 # 2022-10-15:
