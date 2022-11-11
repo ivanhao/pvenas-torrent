@@ -4,7 +4,7 @@ pvenas iso torrent file
 
 # 2022-11-11:
 
-### pvenas_7.2-1-A01.filerun-alpha.iso.torrent
+### [pvenas_7.2-1-A01.filerun-alpha.iso.torrent](https://github.com/ivanhao/pvenas-torrent/blob/main/pvenas_7.2-1-A01.filerun-alpha.iso.torrent)
 
 #### include:
 -  pvenas
@@ -19,7 +19,7 @@ pvenas iso torrent file
 
 # 2022-10-15:
 
-### pvenas_7.2-1-alpha.iso.torrent
+### [pvenas_7.2-1-alpha.iso.torrent](https://github.com/ivanhao/pvenas-torrent/blob/main/pvenas_7.2-1-alpha.iso.torrent)
 
 
 #### include:
