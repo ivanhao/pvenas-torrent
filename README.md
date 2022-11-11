@@ -8,7 +8,7 @@ pvenas iso torrent file
 
 ### [pvenas_7.2-1-A01.filerun-alpha.iso.torrent](https://github.com/ivanhao/pvenas-torrent/blob/main/pvenas_7.2-1-A01.filerun-alpha.iso.torrent)
 
-#### include:
+#### include(包含):
 -  pvenas
 -  kodi
 -  jellyfin
@@ -17,14 +17,21 @@ pvenas iso torrent file
 -  filerun
 -  qbittorrent
 -  ariaNg
-
+```
+套件默认用户名密码说明：
+1、jellyfin     —  admin  :  admin
+2、filebrowser  —  admin  :  admin
+3、qbittorrent  —  admin  :  adminadmin
+4、filerun      —  自行配置
+5、docker       —  自行配置
+```
 
 # 2022-10-15:
 
 ### [pvenas_7.2-1-alpha.iso.torrent](https://github.com/ivanhao/pvenas-torrent/blob/main/pvenas_7.2-1-alpha.iso.torrent)
 
 
-#### include:
+#### include(包含):
 -  pvenas
 -  kodi
 -  jellyfin
@@ -34,5 +41,12 @@ pvenas iso torrent file
 -  nextcloud
 -  qbittorrent
 -  ariaNg
-
+```
+套件默认用户名密码说明：
+1、jellyfin     —  admin  :  admin
+2、filebrowser  —  admin  :  admin
+3、qbittorrent  —  admin  :  adminadmin
+4、nextcloud    —  自行配置
+5、docker       —  自行配置
+```
 
